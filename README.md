@@ -13,8 +13,8 @@
 <table>
   <tr>
     <td width="33%" align="center">
-      <strong>09</strong><br />
-      <sub>documented projects</sub>
+      <strong>13</strong><br />
+      <sub>portfolio projects</sub>
     </td>
     <td width="33%" align="center">
       <strong>03</strong><br />
@@ -55,9 +55,13 @@ I am an AI Engineer focused on reliable systems where machine learning, data, se
 | ML systems | [ML Inference Pipeline Optimizer](https://github.com/Rakhesh-07/ML-Inference-Pipeline-Optimizer) | Inference profiling and deployment trade-offs across runtime and hardware. |
 | Data & BI | [Sales Performance Dashboard](https://github.com/Rakhesh-07/Sales-Performance-Revenue-Analytics-Dashboard) | KPI design, star-schema modeling, DAX, drill-through, and analytical storytelling. |
 | Data & BI | [Property Management Dashboard](https://github.com/Rakhesh-07/Property-Management-Analysis-Dashboard) | Multi-year revenue, expense, client, and geographic analysis. |
+| Data & BI | [eCommerce Dashboard](https://github.com/Rakhesh-07/eCommerce-Dashboard-Power-BI) | Interactive Power BI analysis of sales, orders, customers, AOV, product categories, payment methods, and geography. |
 | Computer vision | [NeuroScan AI](https://github.com/Rakhesh-07/NeuroScan-AI) | Transfer-learning classification with an explicit non-clinical scope. |
 | Computer vision | [Live Emotion Detection](https://github.com/Rakhesh-07/Live-Emotion-Detection) | Real-time webcam-based facial-emotion inference. |
+| Computer vision | [DangerZone Detection](https://github.com/Rakhesh-07/DangerZone-Detection-Real-Time-Image-Analysis-Visualization-GUI) | CustomTkinter image-analysis studio for HSV, RGB, and Canny filter tuning, composite overlays, and saved threshold presets. |
 | Product engineering | [DXD Supermarket POS](https://github.com/Rakhesh-07/DXD_Supermarket_POS) | Role-aware billing, inventory management, and operational analytics. |
+| Application security | [Password Strength Checker](https://github.com/Rakhesh-07/Password-Strength-Checker) | Flask-based password assessment with character-set checks, entropy calculation, and real-time visual feedback. |
+| Embedded systems | [Robotic Arm Controller Glove](https://github.com/Rakhesh-07/Robotic-Arm-Controller-Glove) | Gesture-driven robotic-arm control using flex sensors, a 9-DOF IMU, ESP32 Bluetooth LE, servo actuation, and LED feedback. |
 | Embedded systems | [Metal Detection System](https://github.com/Rakhesh-07/Metal-Detection-System) | FPGA integration, MicroBlaze processing, AXI-Lite interfaces, and physical validation. |
 
 ---
