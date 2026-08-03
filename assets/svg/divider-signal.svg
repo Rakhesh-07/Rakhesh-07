@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 36" role="img" aria-labelledby="title desc">
+  <title id="title">Animated signal divider</title>
+  <desc id="desc">A subtle blue signal moves across a restrained horizontal divider.</desc>
+  <defs>
+    <linearGradient id="track" x1="0" x2="1">
+      <stop offset="0" stop-color="#30363d" stop-opacity="0"/>
+      <stop offset=".12" stop-color="#30363d"/>
+      <stop offset=".88" stop-color="#30363d"/>
+      <stop offset="1" stop-color="#30363d" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" x2="1">
+      <stop offset="0" stop-color="#2f81f7" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#2f81f7" stop-opacity=".95"/>
+      <stop offset="1" stop-color="#2f81f7" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 18H1168" fill="none" stroke="url(#track)"/>
+  <path d="M32 18H1168" fill="none" stroke="url(#signal)" stroke-width="2" stroke-dasharray="112 1024">
+    <animate attributeName="stroke-dashoffset" from="1136" to="-1136" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="600" cy="18" r="3" fill="#2f81f7">
+    <animate attributeName="opacity" values=".25;1;.25" dur="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>

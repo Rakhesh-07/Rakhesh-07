@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title desc">
+  <title id="title">Portfolio icon</title>
+  <desc id="desc">A grid representing a portfolio of work.</desc>
+  <rect x="5" y="5" width="38" height="38" rx="10" fill="#161b22" stroke="#30363d"/>
+  <g fill="none" stroke="#2f81f7" stroke-width="2">
+    <rect x="14" y="14" width="8" height="8" rx="1"/><rect x="26" y="14" width="8" height="8" rx="1"/>
+    <rect x="14" y="26" width="8" height="8" rx="1"/><rect x="26" y="26" width="8" height="8" rx="1"/>
+  </g>
+  <circle cx="30" cy="18" r="2" fill="#2ea043"/>
+</svg>

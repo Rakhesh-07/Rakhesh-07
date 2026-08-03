@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 52" role="img" aria-labelledby="title desc">
+  <title id="title">Documentation button</title>
+  <desc id="desc">A compact button labelled Documentation.</desc>
+  <rect x="1" y="1" width="208" height="50" rx="12" fill="#161b22" stroke="#30363d"/>
+  <rect x="13" y="13" width="26" height="26" rx="7" fill="#2f81f7" fill-opacity=".16"/>
+  <path d="M20 17H29L33 21V34H20V17ZM29 17V21H33M23 25H30M23 29H30" fill="none" stroke="#58a6ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.7"/>
+  <text x="51" y="32" fill="#f0f6fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="15" font-weight="700">Documentation</text>
+</svg>

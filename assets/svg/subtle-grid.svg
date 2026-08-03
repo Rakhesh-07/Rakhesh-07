@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Minimal systems background</title>
+  <desc id="desc">A quiet technical grid with low-contrast guide lines and system nodes.</desc>
+  <defs>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#30363d" stroke-opacity=".4"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#2f81f7" stop-opacity=".16"/>
+      <stop offset="1" stop-color="#2f81f7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="320" fill="#0d1117"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <ellipse cx="900" cy="94" rx="280" ry="240" fill="url(#glow)"/>
+  <g fill="#2f81f7" opacity=".6">
+    <circle cx="152" cy="112" r="3"/><circle cx="440" cy="208" r="3"/>
+    <circle cx="760" cy="64" r="3"/><circle cx="1032" cy="160" r="3"/>
+  </g>
+  <g fill="none" stroke="#2f81f7" stroke-opacity=".3">
+    <path d="M152 112H440V208H760V64H1032V160"/>
+  </g>
+</svg>

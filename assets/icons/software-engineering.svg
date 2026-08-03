@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title desc">
+  <title id="title">Software engineering icon</title>
+  <desc id="desc">Code brackets beside a completed build check.</desc>
+  <rect x="5" y="5" width="38" height="38" rx="10" fill="#161b22" stroke="#30363d"/>
+  <path d="M19 16L13 24L19 32M29 16L35 24L29 32" fill="none" stroke="#2f81f7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2"/>
+  <path d="M21 30L23.5 32.5L28 27.5" fill="none" stroke="#2ea043" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.2"/>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 44" role="img" aria-labelledby="title desc">
+  <title id="title">Animated node divider</title>
+  <desc id="desc">A fine systems line with three gently pulsing nodes.</desc>
+  <defs>
+    <linearGradient id="line" x1="0" x2="1">
+      <stop offset="0" stop-color="#30363d" stop-opacity="0"/>
+      <stop offset=".14" stop-color="#30363d"/>
+      <stop offset=".86" stop-color="#30363d"/>
+      <stop offset="1" stop-color="#30363d" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M32 22H1168" fill="none" stroke="url(#line)"/>
+  <path d="M486 22H714" fill="none" stroke="#2f81f7" stroke-opacity=".48"/>
+  <g fill="#0d1117" stroke="#2f81f7" stroke-width="2">
+    <circle cx="486" cy="22" r="5"><animate attributeName="r" values="4;6;4" dur="4.8s" repeatCount="indefinite"/></circle>
+    <circle cx="600" cy="22" r="5"><animate attributeName="r" values="4;6;4" dur="4.8s" begin="1.6s" repeatCount="indefinite"/></circle>
+    <circle cx="714" cy="22" r="5"><animate attributeName="r" values="4;6;4" dur="4.8s" begin="3.2s" repeatCount="indefinite"/></circle>
+  </g>
+</svg>

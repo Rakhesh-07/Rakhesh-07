@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 320" role="img" aria-labelledby="title desc">
+  <title id="title">Systems orbit decoration</title>
+  <desc id="desc">A minimal orbit motif with a quiet rotating signal point.</desc>
+  <circle cx="160" cy="160" r="118" fill="none" stroke="#30363d"/>
+  <circle cx="160" cy="160" r="80" fill="none" stroke="#30363d" stroke-dasharray="3 9"/>
+  <circle cx="160" cy="160" r="36" fill="#161b22" stroke="#2f81f7" stroke-opacity=".55"/>
+  <path d="M42 160H278M160 42V278" stroke="#30363d" stroke-opacity=".6"/>
+  <g>
+    <circle cx="160" cy="42" r="6" fill="#2f81f7"/>
+    <animateTransform attributeName="transform" type="rotate" from="0 160 160" to="360 160 160" dur="20s" repeatCount="indefinite"/>
+  </g>
+  <circle cx="160" cy="160" r="7" fill="#2ea043">
+    <animate attributeName="opacity" values=".45;1;.45" dur="3.6s" repeatCount="indefinite"/>
+  </circle>
+</svg>

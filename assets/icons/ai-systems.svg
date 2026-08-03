@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-labelledby="title desc">
+  <title id="title">AI systems icon</title>
+  <desc id="desc">A neural system represented by three connected processing nodes.</desc>
+  <rect x="5" y="5" width="38" height="38" rx="10" fill="#161b22" stroke="#30363d"/>
+  <path d="M16 17L24 12L32 17M16 17V30L24 35L32 30V17M16 30L24 25L32 30M24 12V25V35" fill="none" stroke="#2f81f7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+  <circle cx="24" cy="25" r="3" fill="#2ea043"/>
+</svg>
