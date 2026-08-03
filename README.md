@@ -10,6 +10,23 @@
   <a href="mailto:rakhesh.sud@gmail.com">Email</a>
 </p>
 
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <strong>09</strong><br />
+      <sub>documented projects</sub>
+    </td>
+    <td width="33%" align="center">
+      <strong>03</strong><br />
+      <sub>featured builds</sub>
+    </td>
+    <td width="33%" align="center">
+      <strong>04</strong><br />
+      <sub>core focus areas</sub>
+    </td>
+  </tr>
+</table>
+
 ## About
 
 I am an AI Engineer focused on reliable systems where machine learning, data, security, and software engineering meet. My work spans computer vision, multi-agent workflows, business intelligence, and user-facing tools—connecting technical depth to operationally useful outcomes.
