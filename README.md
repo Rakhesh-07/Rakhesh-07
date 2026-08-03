@@ -13,15 +13,15 @@
 <table>
   <tr>
     <td width="33%" align="center">
-      <strong>13</strong><br />
+      <img src="./assets/counters/portfolio-projects.gif" width="84" height="50" alt="13" /><br />
       <sub>portfolio projects</sub>
     </td>
     <td width="33%" align="center">
-      <strong>03</strong><br />
+      <img src="./assets/counters/featured-builds.gif" width="84" height="50" alt="3" /><br />
       <sub>featured builds</sub>
     </td>
     <td width="33%" align="center">
-      <strong>04</strong><br />
+      <img src="./assets/counters/focus-areas.gif" width="84" height="50" alt="4" /><br />
       <sub>core focus areas</sub>
     </td>
   </tr>
